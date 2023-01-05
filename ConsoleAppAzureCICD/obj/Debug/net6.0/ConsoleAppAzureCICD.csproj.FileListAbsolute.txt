@@ -1,0 +1,15 @@
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\bin\Debug\net6.0\ConsoleAppAzureCICD.exe
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\bin\Debug\net6.0\ConsoleAppAzureCICD.deps.json
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\bin\Debug\net6.0\ConsoleAppAzureCICD.runtimeconfig.json
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\bin\Debug\net6.0\ConsoleAppAzureCICD.dll
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\bin\Debug\net6.0\ConsoleAppAzureCICD.pdb
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.csproj.AssemblyReference.cache
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.AssemblyInfoInputs.cache
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.AssemblyInfo.cs
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.csproj.CoreCompileInputs.cache
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.dll
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\refint\ConsoleAppAzureCICD.dll
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.pdb
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ConsoleAppAzureCICD.genruntimeconfig.cache
+C:\Users\LeikA\source\repos\ConsoleAppAzureCICD\ConsoleAppAzureCICD\obj\Debug\net6.0\ref\ConsoleAppAzureCICD.dll
